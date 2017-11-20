@@ -1,0 +1,6 @@
+framework module Pods_Locate_Me {
+  umbrella header "Pods-Locate Me-umbrella.h"
+
+  export *
+  module * { export * }
+}
